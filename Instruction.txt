@@ -1,0 +1,31 @@
+Download ollama 
+
+https://ollama.com/download/mac
+
+install ollama 
+
+https://medium.com/free-or-open-source-software/ollama-get-up-and-running-with-llama-2-mistral-and-other-large-language-models-on-macos-4c5b8d404acc
+
+run ollama from your terminal 
+
+Use Ollama to run llama2 and tinyLlama
+
+ollama run Llama2 
+
+ollama run tinyLlama
+
+download my zip file TinyModels
+
+open the juypter notebook "playground_1.ipynb"
+
+playground is an easy interphase to get assess/run all python script 
+
+All outputs are stored in the "output" folder
+
+folder "one" give assess to the [pre-trained models - prompt testing] 
+
+folder "two" [synthetic data generation python script]
+
+folder "three" [model evaluation - python scritp]
+
+Folder "four" [model testing - rouge score]
