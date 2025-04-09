@@ -16,4 +16,4 @@ SLMs can deliver excellent results with fewer computational resources, paving th
 
 ---
 
-Feel free to tweak this draft to reflect your unique tone or project specifics! 😊
+Tweak your unique tone or project specifics! 😊
